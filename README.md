@@ -10,7 +10,7 @@ I wanted a WSL-free solution and that's how wpkg was born: A pain free dpkg-deb,
 
 ___DISCLAIMER: It's not entirely dpkg-deb, to be clear.___ This utility was mainly designed to help and make (jailbroken) iOS development easier on Windows. However, you can still use it however you may please!
 
-__PLEASE READ THROUGH THE WIKI (link here) TO UNDERSTAND ITS TRIGGERS__
+__PLEASE READ THROUGH THE WIKI ([HERE](https://github.com/mass1ve-err0r/wpkg/wiki)) TO UNDERSTAND ITS TRIGGERS__
 
 ## Features
 - Creation of `.deb` files
@@ -36,6 +36,8 @@ __PLEASE READ THROUGH THE WIKI (link here) TO UNDERSTAND ITS TRIGGERS__
 __! I CANNOT STRESS THIS ENOUGH: PLEASE READ THE WIKI IF YOU HAVE ANY ISSUES/ TROUBLES FIGURING OUT HOW THIS WORKS !__
 
 Link (stable release): [HERE](https://github.com/mass1ve-err0r/wpkg/releases/latest)
+
+Guide on commands: [HERE](https://github.com/mass1ve-err0r/wpkg/wiki/Command-Overview)
 
 ## Thanks/ Credits
 - F. Carlier for dotnet-packaging - This was a tremendously good resource to study!
