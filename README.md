@@ -29,13 +29,13 @@ __PLEASE READ THROUGH THE WIKI (link here) TO UNDERSTAND ITS TRIGGERS__
 4. Under System variables, search for `PATH` and edit it.
 5. Add a new Entry
 	- An Entry in the `PATH` is always a path, so here our entry is `C:\_mytools`
-6. Now that we have added our folder to the `PATH`, you can now just download it, move our "_mytools" folder and it's now accessible from the commandline like any other tool!
+6. Now that we have added our folder to the `PATH`, you can now just download it, move it to our "_mytools" folder and Ta-DA! It's now accessible from the commandline like any other tool!
 7. Profit??
 
 ## Download
 __! I CANNOT STRESS THIS ENOUGH: PLEASE READ THE WIKI IF YOU HAVE ANY ISSUES/ TROUBLES FIGURING OUT HOW THIS WORKS !__
 
-Link (stable release): (reserved space for link)
+Link (stable release): [HERE](https://github.com/mass1ve-err0r/wpkg/releases/latest)
 
 ## Thanks/ Credits
 - F. Carlier for dotnet-packaging - This was a tremendously good resource to study!
